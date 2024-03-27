@@ -1,2 +1,2 @@
 # photo_bot
-бот изменяет фото [https://t.me/liquiddation_bot(bot)]
+бот изменяет фото [бот](https://t.me/liquiddation_bot)
